@@ -122,7 +122,7 @@ Excel desktop is recommended because some workbook features, including Power Piv
 ## Project Links
 
 - **Project Overview PDF:** [Add PDF link here]
-- **Dashboard Demo:** [Add video link here]
+- **Excel File:** https://github.com/Sama-2025/superstore-sales-profit-analysis/blob/main/Superstore_BI_Dashboard.xlsx
 - **GitHub Repository:** [Add repository link here]
 
 ---
